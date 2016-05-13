@@ -286,6 +286,7 @@
 				B2B57F811CE2D380007621A3 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
